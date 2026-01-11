@@ -1,4 +1,4 @@
-# 📏 Touch-Activated Distance Measurement System
+# 📏 Distance Measurement System
 
 ## 📌 Project Overview
 
